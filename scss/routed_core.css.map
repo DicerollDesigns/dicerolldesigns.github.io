@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,YAAY;AACZ,mBAAmB;AAGnB;;KAEK;AAEL;;KAEK;AAEL;;KAEK;AAEL;;MAEM",
+"sources": ["routed_core.scss"],
+"names": [],
+"file": "routed_core.css"
+}
